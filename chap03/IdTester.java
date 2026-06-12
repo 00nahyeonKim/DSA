@@ -1,4 +1,5 @@
 package chap03;
+
 class Id {
     private static int counter = 0; // 아이디를 몇 개 부여했는지 저장 - 클래스 변수
     private int id; // 아이디 - 인스턴스 변수
